@@ -32,6 +32,7 @@
   width: 100%;
   height: 100%;
   background-color: #0ba360;
+  background:linear-gradient(to right, #00971C 0%, #0ba360 100%);
   color: #fff; }
 
 .avatar--group .avatar-xl {
